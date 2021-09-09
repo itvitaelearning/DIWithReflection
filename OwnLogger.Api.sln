@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OwnLogger.Api", "OwnLogger.Api\OwnLogger.Api.csproj", "{EBBE7574-1398-401D-9882-4E7B1F3B6ABE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OwnLogger.Business", "OwnLogger.Business\OwnLogger.Business.csproj", "{5AF56597-A49A-4655-8BD1-A3E0D1F75D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBE7574-1398-401D-9882-4E7B1F3B6ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBE7574-1398-401D-9882-4E7B1F3B6ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBE7574-1398-401D-9882-4E7B1F3B6ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBE7574-1398-401D-9882-4E7B1F3B6ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF56597-A49A-4655-8BD1-A3E0D1F75D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF56597-A49A-4655-8BD1-A3E0D1F75D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF56597-A49A-4655-8BD1-A3E0D1F75D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF56597-A49A-4655-8BD1-A3E0D1F75D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB77C4E-450B-4990-9674-A76784AE7B06}
+	EndGlobalSection
+EndGlobal

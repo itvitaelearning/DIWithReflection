@@ -1,0 +1,5 @@
+26-8-2021 09:17:24;Information;Getting all movies
+30/08/2021 14:37:12;Debug;GetAll!
+30/08/2021 14:37:13;Information;Getting all movies
+09/09/2021 10:54:07;Debug;GetAll!
+09/09/2021 10:54:07;Information;Getting all movies

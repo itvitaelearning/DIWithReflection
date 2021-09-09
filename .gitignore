@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/OwnLogger.Api/.vs/OwnLogger.Api
+/OwnLogger.Api/obj
+/OwnLogger.Business/.vs/OwnLogger.Business
+/OwnLogger.Business/obj
